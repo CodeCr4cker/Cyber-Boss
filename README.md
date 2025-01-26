@@ -5,7 +5,7 @@
 <hr>
 Video to <a href="https://github.com/Divyanshu-85/Cyber-Boss/blob/main/Video/crack%20password.mp4">Crack PDF Password</a>
 <hr>
-<a href="https://github.com/Divyanshu-85/Cyber-Boss/blob/main/Pdf/Enable%20the%20Monitor%20mode%20in%20wifi%20Adopter%20using%20Kali%20Linux..locked.pdf">unable the monitor mode using Kali Linux</a>
+<a href="https://github.com/Divyanshu-85/Cyber-Boss/blob/main/Pdf/Enable%20the%20Monitor%20mode%20in%20wifi%20Adopter%20using%20Kali%20Linux..locked.pdf">Enable the monitor mode using Kali Linux</a>
 <hr>
 
 <hr>
