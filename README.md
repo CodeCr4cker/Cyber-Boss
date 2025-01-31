@@ -11,7 +11,7 @@ PDF to <a href="https://github.com/Divyanshu-85/Cyber-Boss/blob/main/Pdf/Enable%
 <hr>
 Important <a href="https://github.com/Divyanshu-85/Cyber-Boss/blob/main/Doc-pic/132945cd6ad3c674e9694f68929566ce.jpg">CMD </a> of Kali Linux 
 <hr>
-<a href="https://github.com/Divyanshu-85/Cyber-Boss/blob/main/Video/VID-20250131-WA0000.mp4">Video</a>of using the CMD in Kali Linux 
+<a href="https://github.com/Divyanshu-85/Cyber-Boss/blob/main/Video/VID-20250131-WA0000.mp4">Video</a> of using the CMD in Kali Linux 
 <hr>
 
 <hr>
