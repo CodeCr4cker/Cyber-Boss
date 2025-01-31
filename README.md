@@ -9,7 +9,7 @@ Video to <a href="https://github.com/Divyanshu-85/Cyber-Boss/blob/main/Video/cra
 <hr>
 PDF to <a href="https://github.com/Divyanshu-85/Cyber-Boss/blob/main/Pdf/Enable%20the%20Monitor%20mode%20in%20wifi%20Adopter%20using%20Kali%20Linux..locked.pdf">Enable the monitor mode using Kali Linux</a> step by step 
 <hr>
-
+Important <a href="https://github.com/Divyanshu-85/Cyber-Boss/blob/main/Doc-pic/132945cd6ad3c674e9694f68929566ce.jpg">CMD </a> of Kali Linux 
 <hr>
 
 <hr>
