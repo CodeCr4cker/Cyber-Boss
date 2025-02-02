@@ -13,7 +13,10 @@
 <hr>
 5:- <a href="https://github.com/Divyanshu-85/Cyber-Boss/blob/main/Video/VID-20250131-WA0000.mp4">Video</a> of using the CMD in Kali Linux 
 <hr>
-6:- 
+6:- what is Rainbow table attack.....
+    what is spyware......
+    what is bluejacking....
+    <a href="https://github.com/CodeCr4cker/Cyber-Boss/blob/main/Pdf/kali.locked.pdf"> PDF</a>
 <hr>
 
 <hr>
