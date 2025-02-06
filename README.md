@@ -21,7 +21,7 @@
     what is bluejacking.....
     <a href="https://github.com/CodeCr4cker/Cyber-Boss/blob/main/Pdf/kali.locked.pdf"> PDF</a>
 <hr>
-7:- 
+7:- Hacking <a href="https://github.com/CodeCr4cker/Cyber-Boss/blob/main/Doc-pic/c32354c90b866b2c43bea92b1edfd8c0.jpg"> Tool </a> List
 <hr>
 
 <hr>
