@@ -27,7 +27,7 @@
 <hr>
 9:- Type of <a href="https://github.com/CodeCr4cker/Cyber-Boss/blob/main/Doc-pic/IMG-20250208-WA0034.jpg">Cyber</a> Attack 
 <hr>
-10:- <a href=" "></a> 
+10:- Type of <a href=" https://github.com/CodeCr4cker/Cyber-Boss/blob/main/Doc-pic/IMG-20250208-WA0038.jpg">IP </a> Address 
 <hr>
 11:- <a href=" "></a> 
 <hr>
