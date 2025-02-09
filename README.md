@@ -31,7 +31,7 @@
 <hr>
 11:- What is the use of <a href="https://github.com/CodeCr4cker/Cyber-Boss/blob/main/Doc-pic/IMG-20250208-WA0041.jpg">IP</a> Address while hacking
 <hr>
-12:- <a href=" "></a> 
+12:- PDF to crack <a href="https://github.com/CodeCr4cker/Cyber-Boss/blob/main/Pdf/wifi%20crack.locked.pdf ">wifi</a> Password full command 
 <hr>
 13:- <a href=" "></a> 
 <hr>
