@@ -29,7 +29,7 @@
 <hr>
 10:- Type of <a href="https://github.com/CodeCr4cker/Cyber-Boss/blob/main/Doc-pic/IMG-20250208-WA0038.jpg">IP</a> Address 
 <hr>
-11:- What is the use of <a href="https://github.com/CodeCr4cker/Cyber-Boss/blob/main/Doc-pic/IMG_20250131_12212759.jpg">IP</a> Address while hacking
+11:- What is the use of <a href="https://github.com/CodeCr4cker/Cyber-Boss/blob/main/Doc-pic/IMG-20250208-WA0041.jpg">IP</a> Address while hacking
 <hr>
 12:- <a href=" "></a> 
 <hr>
