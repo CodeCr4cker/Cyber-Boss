@@ -23,7 +23,7 @@
 <hr>
 7:- Hacking <a href="https://github.com/CodeCr4cker/Cyber-Boss/blob/main/Doc-pic/c32354c90b866b2c43bea92b1edfd8c0.jpg"> Tool </a> List
 <hr>
-
+8:- Tool <a href="https://github.com/CodeCr4cker/Cyber-Boss/blob/main/Doc-pic/IMG-20250208-WA0032.jpg">For</a> Hacker's
 <hr>
 
 <hr>
