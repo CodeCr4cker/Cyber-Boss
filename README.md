@@ -34,21 +34,21 @@
 <hr>
 12:- PDF to crack <a href="https://github.com/CodeCr4cker/Cyber-Boss/blob/main/Pdf/wifi%20crack.locked.pdf ">wifi</a> Password full command 
 <hr>
-13:- <a href=" "></a> 
+13:- Dark web <a href="https://github.com/CodeCr4cker/Cyber-Boss/blob/main/Pdf/100%2BDark%20Web%20Tools.pdf ">tools</a> pdf
 <hr>
-14:- <a href=" "></a> 
+14:- Google <a href=" https://github.com/CodeCr4cker/Cyber-Boss/blob/main/Pdf/Google%20Dorking.pdf">Dorking</a> pdf
 <hr>
-15:- <a href=" "></a> 
+15:- list of linux <a href="https://github.com/CodeCr4cker/Cyber-Boss/blob/main/Pdf/Linux%20Commands%20cheatsheet.pdf ">command</a> Pdf
 <hr>
-16:- <a href=" "></a> 
+16:- Metasploit <a href=" https://github.com/CodeCr4cker/Cyber-Boss/blob/main/Pdf/Metasploit.pdf">code</a> pdf
 <hr>
-17:- <a href=" "></a> 
+17:- Some tools of Kali Linux <a href=" https://github.com/CodeCr4cker/Cyber-Boss/blob/main/Pdf/TOOLS.pdf">pdf</a> 
 <hr>
-18:- <a href=" "></a> 
+18:- John the rapper complete <a href=" https://github.com/CodeCr4cker/Cyber-Boss/blob/main/Pdf/John%20the%20Ripper%20A%20Pentester%20Guide.pdf">code</a> and instruction.
 <hr>
-19:- <a href=" "></a> 
+19:- Wi-Fi hacking instruction <a href="https://github.com/CodeCr4cker/Cyber-Boss/blob/main/Pdf/Complete%20Wifi%20Hacking%20.pdf ">and</a> code.
 <hr>
-20:- <a href=" "></a> 
+20:- Wi-Fi hacking instruction<a href="https://github.com/CodeCr4cker/Cyber-Boss/blob/main/Pdf/A%20Red%20Teamer%E2%80%99s%20Guide%20to%20Wi-Fi%20Exploits.pdf ">and</a> code (type-2).
 <hr>
 21:- <a href=" "></a> 
 <hr>
